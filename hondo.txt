@@ -746,6 +746,8 @@ hondo tickets is 100% tickets and (how long it took) - proper category/sub categ
 
 2184494 - salesforce - cannot log in new user all other apps are working - followed kb 10284 and advised user to email mysalesforce@ur.com for support (6 min)
 
+2286409  - security camera / sonitrol camera issue/NVR not working camera is working tech wants to know if the network changed > used kbase# 13167 (14 min) >>> Tue Nov 21 2023 10:03:46 GMT-0500 (Eastern Standard Time)
+
 2192619 - serdia 4.0/need to unblock firewall per maintenance technical > escalate to pc level 2 (9 min)
 
 2205132 - shared drive access/fluid solutions regional > user want access for other new users (5 min)
