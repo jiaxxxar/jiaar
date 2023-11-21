@@ -1,0 +1,7 @@
+push new/changes
+...
+01. git status 
+02. git add . 
+03. git commit -m "add all"
+04. git push
+
